@@ -32,12 +32,12 @@ The core model functions are **not** included in this repository. You must integ
 
 ### 2. Repository Files
 
-Your specific project files are organized as follows:
+
 
 | File/Folder | Description |
 | :--- | :--- |
 | `Replication.ipynb` | **Main Execution Notebook.** Contains the code to run the core IRF (Impulse Response Function) replication and the **Extension** analyses (e.g., dynamic evolution of inequalities). |
-| `Presentation/` | Contains the final presentation slides (e.g., LaTeX/PDF) detailing the paper summary, model structure, calibration, and all generated figures. |
+| `Presentation.pdf` | Contains the final presentation slides detailing the paper summary, model structure, calibration, and all generated figures. |
 
 ---
 
